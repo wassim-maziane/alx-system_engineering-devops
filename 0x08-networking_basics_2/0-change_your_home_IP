@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# configures server to resolve localhost and facebook to addresses
+echo -e "8.8.8.8\tfacebook.com\n127.0.0.2\tlocalhost" > /etc/hosts
