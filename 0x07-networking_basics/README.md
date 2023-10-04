@@ -1,1 +1,2 @@
-initialization README.md
+initialziation README.md
+
